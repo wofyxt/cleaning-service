@@ -266,7 +266,6 @@ input, textarea, select {
   left: 0;
   right: 0;
   bottom: 0;
-  background: var(#ffffff);
   padding: 40px 20px;
   z-index: 999;
   flex-direction: column;
