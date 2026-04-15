@@ -1,3 +1,5 @@
+import heroImage from '/images/hero.jpg'
+
 function Hero() {
   return (
     <section className="hero" id="home">
@@ -44,7 +46,7 @@ function Hero() {
         <aside className="hero__card">
          <img
              className="hero__card-image"
-             src="/images/hero.jpg"
+             src={heroImage} 
              alt="Уютный чистый интерьер"
         />
           <div className="hero__card-features">
