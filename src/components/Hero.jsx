@@ -44,7 +44,7 @@ function Hero() {
         <aside className="hero__card">
          <img
              className="hero__card-image"
-             src="public/images/hero.jpg"
+             src="/images/hero.jpg"
              alt="Уютный чистый интерьер"
         />
           <div className="hero__card-features">
